@@ -14,7 +14,7 @@ const Sidebar: React.FC = () => {
 
                 <ul>
                     <li>
-                        <NavLink to="/">
+                        <NavLink to="/home">
                             <h3>Home</h3>
                         </NavLink>
                     </li>
